@@ -1,3 +1,3 @@
-## Connect: `ssh pi@192.168.4.1`
+## Connect: `ssh pi@pitlab`
 
 ## Password: `raspberry` `Lx3BT571yx`
